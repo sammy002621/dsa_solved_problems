@@ -1,4 +1,6 @@
 // BRUTE FORCE SOLUTION 
+// TIME COMPLEXITY : O(M+N)
+// SPACE COMPLEXITY:O(M+N)
 
 #include <vector>
 #include <algorithm>
